@@ -1,0 +1,23 @@
+# Streamlit logs and local environments
+__pycache__/
+*.pyc
+.streamlit/
+.system_generated/
+*.log
+login_char.png
+login_hero.png
+
+# Flutter & Dart builds/dependencies
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+.pub-cache/
+.pub/
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+.DS_Store
